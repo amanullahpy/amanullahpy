@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amanullahpy&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
 <div align="center">
   <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
@@ -21,12 +21,12 @@
 ## 🚀 Quick Overview
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman3899&theme=tokyonight" alt="Most Used Languages"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=aman3899&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanullahpy&theme=tokyonight" alt="Most Used Languages"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=amanullahpy&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman3899&theme=tokyonight" alt="GitHub Profile Details"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanullahpy&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
 
 ## 🌟 About Me
@@ -283,7 +283,7 @@ Feature-rich blogging platform designed for content creators with powerful analy
 ## 🌐 Web Development Workflow
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman3899&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanullahpy&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 ---
@@ -386,7 +386,7 @@ Feature-rich blogging platform designed for content creators with powerful analy
 ## 🛠️ Development Workflow
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman3899&theme=tokyonight" alt="Repositories by Language"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanullahpy&theme=tokyonight" alt="Repositories by Language"/>
 </div>
 
 ### Key Development Practices:
@@ -400,7 +400,7 @@ Feature-rich blogging platform designed for content creators with powerful analy
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/amanullah0830?theme=dark&font=Livvic&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/amanullahpy?theme=dark&font=Livvic&ext=activity" alt="LeetCode Stats">
 </div>
 
 ## 🔮 Future Goals & Projects
@@ -427,16 +427,16 @@ Feature-rich blogging platform designed for content creators with powerful analy
 
 <div align="center">
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman3899&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanullahpy&theme=tokyonight" />
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman3899&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanullahpy&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman3899&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanullahpy&theme=tokyonight" />
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman3899&theme=tokyonight&utcOffset=5" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanullahpy&theme=tokyonight&utcOffset=5" />
 </div>
 
 
