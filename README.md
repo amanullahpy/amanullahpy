@@ -1,21 +1,34 @@
+<!--
+  ⚠️ PLEASE VERIFY BEFORE PUBLISHING:
+  1) GitHub username used everywhere below is "amanullahpy" — I could not confirm this is your
+     real, active GitHub handle. If it's wrong, that's why the stat widgets (profile-summary-cards,
+     streak-stats, contribution graph, LeetCard) render as broken images. Find-and-replace
+     "amanullahpy" with your correct GitHub username if needed.
+  2) Contact info conflicted between your old README and your LinkedIn resume PDF:
+     - Email: m.amanullah0830@gmail.com (old README) vs amaanullah0830@gmail.com (resume PDF)
+     - LinkedIn: /in/amanullah6 (old README) vs /in/amanullahpy (resume PDF)
+     - Portfolio: amanullah-portfolio.vercel.app (old README) vs amaanullah.me (resume PDF)
+     I went with the resume PDF versions below since that document is more recent — double-check
+     these are the ones you actually want live.
+-->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=amanullahpy&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
 <div align="center">
   <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
-  <h3>Software Engineer with a Proven Track Record in Web and Mobile Dev, Based in Pakistan.</h3>
+  <h3>Full Stack Engineer | Next.js · TypeScript · NestJS · AWS — Built billing & auth systems powering live SaaS products.</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
 
 <div align="center">
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amanullah0830)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanullah6)
 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amanullah0830)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanullahpy)
   [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24649122/aman-ullah)
   [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/amanullah057)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman_ullah057)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.amanullah0830@gmail.com)
-  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanullah0830@gmail.com)
+
 </div>
 
 ## 🚀 Quick Overview
@@ -31,24 +44,35 @@
 
 ## 🌟 About Me
 
-I'm a Full Stack Software Engineer specializing in **Next.js, TypeScript, and Supabase** with proven expertise in building scalable, production-ready web applications. With hands-on experience at **Z360 (Zikra Infotech LLC)** and **BerrySol**, I've successfully delivered high-impact solutions serving 300+ users and improving API performance by 21%.
+Most SaaS products don't die from bad ideas — they die when the billing breaks, the auth layer can't handle scale, or the infra falls over during a traffic spike and nobody can fix it fast enough. I'm the engineer who builds that stuff so it doesn't happen.
+
+I'm a **Full Stack Engineer** based in Pakistan, currently building frontend-heavy SaaS interfaces at **SiliconFort LLC** with **Next.js, Material UI, NestJS, and PostgreSQL**. Before that, I spent 8 months at **Z360 (Zikra Infotech)** architecting the backend that keeps a SaaS company's lights on — a hybrid Stripe billing engine with wallets and credits, Supabase-powered authentication, and AWS deployment pipelines (Amplify, S3, EC2) that ran with zero major outages.
+
+**What I do well:**
+- 💳 Architect payment & billing systems (Stripe, wallets, coupons, pay-as-you-go models)
+- 🔐 Build auth systems that don't leak (Supabase, Clerk, NextAuth, JWT)
+- ⚡ Ship frontend that performs — Next.js, TypeScript, Material UI
+- ☁️ Deploy and maintain cloud infra (AWS, CI/CD) without babysitting it
+
+I graduated as a **Gold Medalist** in Software Engineering from **FAST NUCES** (3.51 CGPA), and spent ~2 years as a Teaching Assistant mentoring 150+ students in software design and formal methods — that's where I learned clean architecture isn't academic, it's the difference between a system that scales and one that collapses under its first real traffic spike.
+
+Outside full-time work, I build things I'm curious about because I want to know if I can — not because they were assigned to me.
 
 - 🔭 **Currently Working On**:
-  - **Auto Resume Generator** - AI-powered ATS-optimized resume builder that generates tailored resumes based on job descriptions with real-time keyword matching
-  - **Aman Blog App** - Feature-rich blogging platform with OAuth multi-auth (Google, GitHub), rich text editor, AI-powered content suggestions, analytics dashboard, and blog management system
+  - **ZScribe360** — AI medical scribe & clinical assistant with real-time note generation and evidence-backed decision support
+  - **Auto Resume Generator** — AI-powered ATS-optimized resume builder with real-time keyword matching
+  - **Aman Blog App** — Feature-rich blogging platform with OAuth multi-auth, rich text editor, and AI content suggestions
+  - **E-Commerce Platform** — Next.js 14, TypeScript, Tailwind CSS, and Stripe integration with hybrid payment models
 
-  - **E-Commerce Platform** - Next.js 14, TypeScript, Tailwind CSS, and Stripe integration with hybrid payment models
-  - **Portfolio V2** - Serverless architecture with advanced animations, dark mode, and performance optimization
-
-- 🌱 **Currently Learning**: 
+- 🌱 **Currently Learning**:
   - Advanced Next.js 14+ (App Router, Server Components, Streaming)
   - Flutter for cross-platform mobile development
   - DevOps (Kubernetes, GitHub Actions, AWS ECS, CI/CD pipelines)
   - Web3 & Blockchain Development
 
-- 👨‍💻 **Portfolio**: [View My Portfolio](https://amanullah-portfolio.vercel.app/)
+- 👨‍💻 **Portfolio**: [amaanullah.me](https://amaanullah.me)
 - 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/16MfJjF50uRldMcOQKMfPZn8B1jV6NiFf/view?usp=sharing)
-- 💼 **LinkedIn**: [Connect With Me](https://linkedin.com/in/amanullah6)
+- 💼 **LinkedIn**: [Connect With Me](https://linkedin.com/in/amanullahpy)
 
 ---
 
@@ -184,7 +208,7 @@ Comprehensive web application with 80+ productivity tools, saving developers tim
 
 ---
 
-## 🚀 In Development 
+## 🚀 In Development
 
 ### 🤖 Auto Resume Generator (ATS Optimizer)
 Intelligent resume builder that analyzes job descriptions and generates ATS-optimized resumes with:
@@ -229,12 +253,14 @@ Feature-rich blogging platform designed for content creators with powerful analy
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material_UI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
   ### ⚙️ Backend & APIs
   ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=trpc&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-%2343853D.svg?style=flat-square&logo=fastapi&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
@@ -293,29 +319,49 @@ Feature-rich blogging platform designed for content creators with powerful analy
 <table>
 <tr valign="top">
   <td width="50%" style="vertical-align: top;">
-    <h3>🏢 Z360 (Zikra Infotech LLC)</h3>
+    <h3>🏢 SiliconFort LLC</h3>
     <p><strong>Full Stack Engineer</strong></p>
-    <p><em>Jul 2025 – Present</em></p>
+    <p><em>Jan 2026 – Present · Lahore</em></p>
     <ul>
-      <li>Developing full-stack solutions with Next.js & Supabase</li>
-      <li>Implementing Stripe hybrid payment systems with wallet & credits</li>
-      <li>Building tRPC APIs for type-safe backend communication</li>
-      <li>Deployed production builds via AWS Amplify & S3</li>
-      <li>Integrated PostHog analytics for system insights</li>
-      <li>Working on healthcare AI and enterprise solutions</li>
+      <li>Frontend-heavy full stack development with Next.js, Material UI, NestJS & PostgreSQL</li>
+      <li>Built reusable UI component systems and scalable frontend architecture</li>
+      <li>Integrated backend services via NestJS with ORM-based database management</li>
+      <li>Optimized rendering, routing & state management for performance</li>
+      <li>Implemented secure auth flows, API integrations & data-driven dashboards</li>
     </ul>
   </td>
   <td width="50%" style="vertical-align: top;">
-    <h3>🏢 BerrySol</h3>
-    <p><strong>Full Stack Web Developer</strong></p>
-    <p><em>Mar 2024 – May 2025</em></p>
+    <h3>🏢 Z360 (Zikra Infotech LLC)</h3>
+    <p><strong>Full Stack Engineer</strong></p>
+    <p><em>Jun 2025 – Jan 2026 (8 months)</em></p>
     <ul>
-      <li>Engineered scalable features for 300+ users</li>
-      <li>Secured authentication across multiple platforms</li>
-      <li>🎯 Boosted API performance by 21%</li>
-      <li>Implemented CI/CD pipelines using Git workflows</li>
-      <li>Mentored junior developers on best practices</li>
-      <li>Led technical implementation and code reviews</li>
+      <li>Engineered auth & user management with Supabase (Auth, DB, Storage, Vectors)</li>
+      <li>Built type-safe APIs with tRPC across the stack</li>
+      <li>Designed hybrid Stripe billing: fixed plans + pay-as-you-go, wallets & credits</li>
+      <li>Integrated PostHog analytics; managed AWS CI/CD (Amplify, S3, EC2) with zero major outages</li>
+    </ul>
+  </td>
+</tr>
+<tr valign="top">
+  <td width="50%" style="vertical-align: top;">
+    <h3>🏢 BerrySol</h3>
+    <p><strong>Full Stack Developer</strong></p>
+    <p><em>Mar 2024 – May 2025 (1 yr 3 mo) · UAE</em></p>
+    <ul>
+      <li>Engineered scalable features for 300+ users across platforms</li>
+      <li>🎯 Boosted API performance by 21% through refactoring</li>
+      <li>Implemented Git-driven CI/CD pipelines</li>
+      <li>Mentored junior developers and led code reviews</li>
+    </ul>
+  </td>
+  <td width="50%" style="vertical-align: top;">
+    <h3>🏢 entracloud</h3>
+    <p><strong>Full Stack Developer</strong></p>
+    <p><em>Jun 2024 – Aug 2024 (3 months) · Lahore</em></p>
+    <ul>
+      <li>Built responsive MERN & Tailwind web apps, improving engagement by 20%</li>
+      <li>Designed secure Node.js & Express backend, reducing downtime by 25%</li>
+      <li>Integrated JWT, Clerk & NextAuth, strengthening auth security by 40%</li>
     </ul>
   </td>
 </tr>
@@ -339,7 +385,7 @@ Feature-rich blogging platform designed for content creators with powerful analy
   <img src="https://img.shields.io/badge/API_Design-%2343853D.svg?style=flat-square&logo=fastapi&logoColor=white" alt="APIs">
   <img src="https://img.shields.io/badge/Database_Design-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Databases">
   <img src="https://img.shields.io/badge/CI/CD_Pipelines-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD">
-  <img src="https://img.shields.io/badge/Performance_Optimization-%23FFA500.svg?style=flat-square&logo=speedtest&logoColor=white" alt="Performance">
+  <img src="https://img.shields.io/badge/Payment_%26_Billing_Systems-%2343853D.svg?style=flat-square&logo=stripe&logoColor=white" alt="Billing">
   <img src="https://img.shields.io/badge/AI/ML_Integration-%23FF6B6B.svg?style=flat-square&logo=openai&logoColor=white" alt="AI/ML">
 
   ### Soft Skills
@@ -355,10 +401,12 @@ Feature-rich blogging platform designed for content creators with powerful analy
 
 ## 📊 Education & Achievements
 
-**Bachelor of Software Engineering** | FAST NUCES  
-*Sep 2021 – Jun 2025* | **CGPA: 3.51**
+**Bachelor of Software Engineering** | FAST NUCES
+*Sep 2021 – Jun 2025* | **CGPA: 3.51** (Gold Medalist, top of two graduating cohorts)
 
 **Coursework:** Programming Fundamentals, OOP, Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Software Design & Architecture, Web Development, Android Development, Software Testing, Generative AI, DevOps
+
+**FSc, Pre-Engineering** | Chenab College Jhang · *Aug 2019 – Jul 2021*
 
 **Academic Honors:**
 - 🥇 **Gold Medals** (Spring 2023, Spring 2025)
@@ -406,19 +454,19 @@ Feature-rich blogging platform designed for content creators with powerful analy
 ## 🔮 Future Goals & Projects
 
 <div align="start">
-  
+
   ### Upcoming Innovations
-  
+
   🚀 **Next.js SaaS Boilerplate** - Production-ready template with authentication, billing, multi-tenancy, and analytics
-  
+
   🤖 **AI-Powered Web Application** - Intelligent tool integrating ML/AI for enhanced user experiences
-  
+
   📱 **Cross-Platform Mobile App** - Flutter-based application with web parity and offline capabilities
-  
+
   ⛓️ **Web3 Integration** - Blockchain integration and smart contract development exploration
-  
+
   📚 **Open-Source Contributions** - Active contributions to Next.js, Flutter, and web dev ecosystems
-  
+
   🌍 **Global Developer Community** - Building tools and resources for the dev community
 
 </div>
@@ -426,19 +474,18 @@ Feature-rich blogging platform designed for content creators with powerful analy
 ## 📊 GitHub Statistics & Analytics
 
 <div align="center">
-  <img width="49%" 
+  <img width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanullahpy&theme=tokyonight" />
-  <img width="49%" 
+  <img width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanullahpy&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="49%" 
+  <img width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanullahpy&theme=tokyonight" />
-  <img width="49%" 
+  <img width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanullahpy&theme=tokyonight&utcOffset=5" />
 </div>
-
 
 ## 💁‍♂️ Support Me
 
